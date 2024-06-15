@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "TITLE"
+date: 2024-6-15
 ---
 
 # Welcome to My Blog
